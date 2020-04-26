@@ -1,6 +1,6 @@
 # Project 3 - *Blatter*
 
-**Name of your app** is a basic twitter app to read your tweets. It has inspiration from Animal Crossing.
+**Blatter** is a basic twitter app to read your tweets. It has inspiration from Animal Crossing.
 
 Time spent: **3** hours spent in total
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/wUgcl8NM1M.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 

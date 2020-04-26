@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Blatter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Name of your app** is a basic twitter app to read your tweets. It has inspiration from Animal Crossing.
 
 Time spent: **3** hours spent in total
 

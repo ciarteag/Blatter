@@ -17,10 +17,15 @@ class HomeTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        loadTweets()
+        //loadTweets()
         
         myRefreshConrol.addTarget(self, action: #selector(loadTweets), for: .valueChanged)
         tableView.refreshControl = myRefreshConrol
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        self.loadTweets()
     }
     
     
